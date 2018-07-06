@@ -1,0 +1,7 @@
+{
+  "package": "vdv.mixins.example",
+  "client": [
+    "MixinMinecraftExample"
+  ],
+  "compatibilityLevel": "JAVA_8"
+}
